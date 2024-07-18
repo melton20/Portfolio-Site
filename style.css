@@ -17,7 +17,10 @@ body {
 }
 
 .header {
-    background-color: grey;
+    background-image: url(./images/Concentration-Tree-Hand.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
     grid-column: 1 / 5;
     grid-row: 1 / span 2;
     height: 500px;
